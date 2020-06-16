@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/ananymity/KissCartoonAPI/issues"
   },
-  "homepage": "https://github.com/ananymity/KissCartoonAPI#readme"
+  "homepage": "https://github.com/ananymity/KissCartoonAPI#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^4.0.0"
+  }
 }
